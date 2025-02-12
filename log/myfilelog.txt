@@ -1,0 +1,78 @@
+    1  ls
+    2  cd User
+    3  cd gitdemo
+    4  ls
+    5  git ls-files
+    6  ls
+    7  ls
+    8  git ls-files
+    9  git status
+   10  status
+   11  ls-files
+   12   git config --global --add safe.directory C:/Users/2387872/gitdemo
+   13  ls
+   14  git status
+   15  git add --all
+   16  git status
+   17  git commit -m "First release/commit of welcome"
+   18  git status
+   19  git log
+   20  git history
+   21  history
+   22  history << myfilelog.txt
+;
+
+   23  history >> myfilelog.txt 
+    1  ls
+    2  cd User
+    3  cd gitdemo
+    4  ls
+    5  git ls-files
+    6  ls
+    7  ls
+    8  git ls-files
+    9  git status
+   10  status
+   11  ls-files
+   12   git config --global --add safe.directory C:/Users/2387872/gitdemo
+   13  ls
+   14  git status
+   15  git add --all
+   16  git status
+   17  git commit -m "First release/commit of welcome"
+   18  git status
+   19  git log
+   20  git history
+   21  history
+   22  history << myfilelog.txt
+;
+
+   23  history >> myfilelog.txt 
+   24  ls
+   25  git diff
+   26  git diff
+   27  git diff
+   28  git diff
+   29  git add Welcome.html 
+   30  git commit -m "second release"
+   31  git status
+   32  git log
+   33  git add --all
+   34  git log
+   35  history
+   36  git branch newPage1
+   37  git checkout newPage1
+   38* 
+   39  git status
+   40  git add -all
+   41  git add --all
+   42  git add page1.html
+   43  git checkout master
+   44  git merge newPage1.html
+   45  git checkout master
+   46  git merge newPage1
+   47  git checkout master
+   48  git branch
+   49  git branch -d newPage1
+   50  git branch
+   51  history >> myfilelog.txt 
